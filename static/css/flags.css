@@ -1,0 +1,1028 @@
+﻿.flag {
+    width: 1.5rem;
+    height: 1.5rem;
+    display: inline-block;
+    background: no-repeat center/100% 100%;
+    vertical-align: bottom;
+    font-style: normal;
+}
+.flag-ad {
+    background-image: url("../image/ad.png");
+}
+
+.flag-ae {
+    background-image: url("../image/ae.png");
+}
+
+.flag-af {
+    background-image: url("../image/af.png");
+}
+
+.flag-ag {
+    background-image: url("../image/ag.png");
+}
+
+.flag-ai {
+    background-image: url("../image/ai.png");
+}
+
+.flag-al {
+    background-image: url("../image/al.png");
+}
+
+.flag-am {
+    background-image: url("../image/am.png");
+}
+
+.flag-ao {
+    background-image: url("../image/ao.png");
+}
+
+.flag-aq {
+    background-image: url("https://dreamspos.dreamstechnologies.com/html/template/assets/plugins/icons/flags/flags/aq.png");
+}
+
+.flag-ar {
+    background-image: url("../image/ar.png");
+}
+
+.flag-as {
+    background-image: url("../image/as.png");
+}
+
+.flag-at {
+    background-image: url("../image/at.png");
+}
+
+.flag-au {
+    background-image: url("../image/au.png");
+}
+
+.flag-aw {
+    background-image: url("../image/aw.png");
+}
+
+.flag-ax {
+    background-image: url("../image/ax.png");
+}
+
+.flag-az {
+    background-image: url("../image/az.png");
+}
+
+.flag-ba {
+    background-image: url("../image/ba.png");
+}
+
+.flag-bb {
+    background-image: url("../image/bb.png");
+}
+
+.flag-bd {
+    background-image: url("../image/bd.png");
+}
+
+.flag-be {
+    background-image: url("../image/be.png");
+}
+
+.flag-bf {
+    background-image: url("../image/bf.png");
+}
+
+.flag-bg {
+    background-image: url("../image/bg.png");
+}
+
+.flag-bh {
+    background-image: url("../image/bh.png");
+}
+
+.flag-bi {
+    background-image: url("../image/bi.png");
+}
+
+.flag-bj {
+    background-image: url("../image/bj.png");
+}
+
+.flag-bl {
+    background-image: url("../image/bl.png");
+}
+
+.flag-bm {
+    background-image: url("../image/bm.png");
+}
+
+.flag-bn {
+    background-image: url("../image/bn.png");
+}
+
+.flag-bo {
+    background-image: url("../image/bo.png");
+}
+
+.flag-bq {
+    background-image: url("../image/bq.png");
+}
+
+.flag-br {
+    background-image: url("../image/br.png");
+}
+
+.flag-bs {
+    background-image: url("../image/bs.png");
+}
+
+.flag-bt {
+    background-image: url("../image/bt.png");
+}
+
+.flag-bv {
+    background-image: url("../image/bv.png");
+}
+
+.flag-bw {
+    background-image: url("../image/bw.png");
+}
+
+.flag-by {
+    background-image: url("../image/by.png");
+}
+
+.flag-bz {
+    background-image: url("../image/bz.png");
+}
+
+.flag-ca {
+    background-image: url("../image/ca.png");
+}
+
+.flag-cc {
+    background-image: url("../image/cc.png");
+}
+
+.flag-cd {
+    background-image: url("../image/cd.png");
+}
+
+.flag-cf {
+    background-image: url("../image/cf.png");
+}
+
+.flag-cg {
+    background-image: url("../image/cg.png");
+}
+
+.flag-ch {
+    background-image: url("../image/ch.png");
+}
+
+.flag-ci {
+    background-image: url("../image/ci.png");
+}
+
+.flag-ck {
+    background-image: url("../image/ck.png");
+}
+
+.flag-cl {
+    background-image: url("../image/cl.png");
+}
+
+.flag-cm {
+    background-image: url("../image/cm.png");
+}
+
+.flag-cn {
+    background-image: url("../image/cn.png");
+}
+
+.flag-co {
+    background-image: url("../image/co.png");
+}
+
+.flag-cr {
+    background-image: url("../image/cr.png");
+}
+
+.flag-cu {
+    background-image: url("../image/cu.png");
+}
+
+.flag-cv {
+    background-image: url("../image/cv.png");
+}
+
+.flag-cw {
+    background-image: url("../image/cw.png");
+}
+
+.flag-cx {
+    background-image: url("../image/cx.png");
+}
+
+.flag-cy {
+    background-image: url("../image/cy.png");
+}
+
+.flag-cz {
+    background-image: url("../image/cz.png");
+}
+
+.flag-de {
+    background-image: url("../image/de.png");
+}
+
+.flag-dj {
+    background-image: url("../image/dj.png");
+}
+
+.flag-dk {
+    background-image: url("../image/dk.png");
+}
+
+.flag-dm {
+    background-image: url("../image/dm.png");
+}
+
+.flag-do {
+    background-image: url("../image/do.png");
+}
+
+.flag-dz {
+    background-image: url("../image/dz.png");
+}
+
+.flag-ec {
+    background-image: url("../image/ec.png");
+}
+
+.flag-ee {
+    background-image: url("../image/ee.png");
+}
+
+.flag-eg {
+    background-image: url("../image/eg.png");
+}
+
+.flag-eh {
+    background-image: url("https://dreamspos.dreamstechnologies.com/html/template/assets/plugins/icons/flags/flags/eh.png");
+}
+
+.flag-er {
+    background-image: url("../image/er.png");
+}
+
+.flag-es {
+    background-image: url("../image/es.png");
+}
+
+.flag-et {
+    background-image: url("../image/et.png");
+}
+
+.flag-eu {
+    background-image: url("https://dreamspos.dreamstechnologies.com/html/template/assets/plugins/icons/flags/flags/eu.png");
+}
+
+.flag-fi {
+    background-image: url("../image/fi.png");
+}
+
+.flag-fj {
+    background-image: url("../image/fj.png");
+}
+
+.flag-fk {
+    background-image: url("../image/fk.png");
+}
+
+.flag-fm {
+    background-image: url("../image/fm.png");
+}
+
+.flag-fo {
+    background-image: url("../image/fo.png");
+}
+
+.flag-fr {
+    background-image: url("../image/bl.png");
+}
+
+.flag-ga {
+    background-image: url("../image/ga.png");
+}
+
+.flag-gb-eng {
+    background-image: url("https://dreamspos.dreamstechnologies.com/html/template/assets/plugins/icons/flags/flags/gb-eng.png");
+}
+
+.flag-gb-nir {
+    background-image: url("https://dreamspos.dreamstechnologies.com/html/template/assets/plugins/icons/flags/flags/gb-nir.png");
+}
+
+.flag-gb-sct {
+    background-image: url("https://dreamspos.dreamstechnologies.com/html/template/assets/plugins/icons/flags/flags/gb-sct.png");
+}
+
+.flag-gb-wls {
+    background-image: url("https://dreamspos.dreamstechnologies.com/html/template/assets/plugins/icons/flags/flags/gb-wls.png");
+}
+
+.flag-gb {
+    background-image: url("../image/gb.png");
+}
+
+.flag-gd {
+    background-image: url("../image/gd.png");
+}
+
+.flag-ge {
+    background-image: url("../image/ge.png");
+}
+
+.flag-gf {
+    background-image: url("../image/gf.png");
+}
+
+.flag-gg {
+    background-image: url("../image/gg.png");
+}
+
+.flag-gh {
+    background-image: url("../image/gh.png");
+}
+
+.flag-gi {
+    background-image: url("../image/gi.png");
+}
+
+.flag-gl {
+    background-image: url("../image/gl.png");
+}
+
+.flag-gm {
+    background-image: url("../image/gm.png");
+}
+
+.flag-gn {
+    background-image: url("../image/gn.png");
+}
+
+.flag-gp {
+    background-image: url("../image/bl.png");
+}
+
+.flag-gq {
+    background-image: url("../image/gq.png");
+}
+
+.flag-gr {
+    background-image: url("../image/gr.png");
+}
+
+.flag-gs {
+    background-image: url("../image/gs.png");
+}
+
+.flag-gt {
+    background-image: url("../image/gt.png");
+}
+
+.flag-gu {
+    background-image: url("../image/gu.png");
+}
+
+.flag-gw {
+    background-image: url("../image/gw.png");
+}
+
+.flag-gy {
+    background-image: url("../image/gy.png");
+}
+
+.flag-hk {
+    background-image: url("../image/hk.png");
+}
+
+.flag-hm {
+    background-image: url("https://dreamspos.dreamstechnologies.com/html/template/assets/plugins/icons/flags/flags/hm.png");
+}
+
+.flag-hn {
+    background-image: url("../image/hn.png");
+}
+
+.flag-hr {
+    background-image: url("../image/hr.png");
+}
+
+.flag-ht {
+    background-image: url("../image/ht.png");
+}
+
+.flag-hu {
+    background-image: url("../image/hu.png");
+}
+
+.flag-id {
+    background-image: url("../image/id.png");
+}
+
+.flag-ie {
+    background-image: url("../image/ie.png");
+}
+
+.flag-il {
+    background-image: url("../image/il.png");
+}
+
+.flag-im {
+    background-image: url("../image/im.png");
+}
+
+.flag-in {
+    background-image: url("../image/in.png");
+}
+
+.flag-io {
+    background-image: url("../image/io.png");
+}
+
+.flag-iq {
+    background-image: url("../image/iq.png");
+}
+
+.flag-ir {
+    background-image: url("../image/ir.png");
+}
+
+.flag-is {
+    background-image: url("../image/is.png");
+}
+
+.flag-it {
+    background-image: url("../image/it.png");
+}
+
+.flag-je {
+    background-image: url("../image/je.png");
+}
+
+.flag-jm {
+    background-image: url("../image/jm.png");
+}
+
+.flag-jo {
+    background-image: url("../image/jo.png");
+}
+
+.flag-jp {
+    background-image: url("../image/jp.png");
+}
+
+.flag-ke {
+    background-image: url("../image/ke.png");
+}
+
+.flag-kg {
+    background-image: url("../image/kg.png");
+}
+
+.flag-kh {
+    background-image: url("../image/kh.png");
+}
+
+.flag-ki {
+    background-image: url("../image/ki.png");
+}
+
+.flag-km {
+    background-image: url("../image/km.png");
+}
+
+.flag-kn {
+    background-image: url("../image/kn.png");
+}
+
+.flag-kp {
+    background-image: url("../image/kp.png");
+}
+
+.flag-kr {
+    background-image: url("../image/kr.png");
+}
+
+.flag-kw {
+    background-image: url("../image/kw.png");
+}
+
+.flag-ky {
+    background-image: url("../image/ky.png");
+}
+
+.flag-kz {
+    background-image: url("../image/kz.png");
+}
+
+.flag-la {
+    background-image: url("../image/la.png");
+}
+
+.flag-lb {
+    background-image: url("../image/lb.png");
+}
+
+.flag-lc {
+    background-image: url("../image/lc.png");
+}
+
+.flag-li {
+    background-image: url("../image/li.png");
+}
+
+.flag-lk {
+    background-image: url("../image/lk.png");
+}
+
+.flag-lr {
+    background-image: url("../image/lr.png");
+}
+
+.flag-ls {
+    background-image: url("../image/ls.png");
+}
+
+.flag-lt {
+    background-image: url("../image/lt.png");
+}
+
+.flag-lu {
+    background-image: url("../image/lu.png");
+}
+
+.flag-lv {
+    background-image: url("../image/lv.png");
+}
+
+.flag-ly {
+    background-image: url("../image/ly.png");
+}
+
+.flag-ma {
+    background-image: url("../image/ma.png");
+}
+
+.flag-mc {
+    background-image: url("../image/mc.png");
+}
+
+.flag-md {
+    background-image: url("../image/md.png");
+}
+
+.flag-me {
+    background-image: url("../image/me.png");
+}
+
+.flag-mf {
+    background-image: url("https://dreamspos.dreamstechnologies.com/html/template/assets/plugins/icons/flags/flags/mf.png");
+}
+
+.flag-mg {
+    background-image: url("../image/mg.png");
+}
+
+.flag-mh {
+    background-image: url("../image/mh.png");
+}
+
+.flag-mk {
+    background-image: url("../image/mk.png");
+}
+
+.flag-ml {
+    background-image: url("../image/ml.png");
+}
+
+.flag-mm {
+    background-image: url("../image/mm.png");
+}
+
+.flag-mn {
+    background-image: url("../image/mn.png");
+}
+
+.flag-mo {
+    background-image: url("../image/mo.png");
+}
+
+.flag-mp {
+    background-image: url("../image/mp.png");
+}
+
+.flag-mq {
+    background-image: url("../image/mq.png");
+}
+
+.flag-mr {
+    background-image: url("../image/mr.png");
+}
+
+.flag-ms {
+    background-image: url("../image/ms.png");
+}
+
+.flag-mt {
+    background-image: url("../image/mt.png");
+}
+
+.flag-mu {
+    background-image: url("../image/mu.png");
+}
+
+.flag-mv {
+    background-image: url("../image/mv.png");
+}
+
+.flag-mw {
+    background-image: url("../image/mw.png");
+}
+
+.flag-mx {
+    background-image: url("../image/mx.png");
+}
+
+.flag-my {
+    background-image: url("../image/my.png");
+}
+
+.flag-mz {
+    background-image: url("../image/mz.png");
+}
+
+.flag-na {
+    background-image: url("../image/na.png");
+}
+
+.flag-nc {
+    background-image: url("../image/nc.png");
+}
+
+.flag-ne {
+    background-image: url("../image/ne.png");
+}
+
+.flag-nf {
+    background-image: url("../image/nf.png");
+}
+
+.flag-ng {
+    background-image: url("../image/ng.png");
+}
+
+.flag-ni {
+    background-image: url("../image/ni.png");
+}
+
+.flag-nl {
+    background-image: url("../image/nl.png");
+}
+
+.flag-no {
+    background-image: url("../image/no.png");
+}
+
+.flag-np {
+    background-image: url("../image/np.png");
+}
+
+.flag-nr {
+    background-image: url("../image/nr.png");
+}
+
+.flag-nu {
+    background-image: url("../image/nu.png");
+}
+
+.flag-nz {
+    background-image: url("../image/nz.png");
+}
+
+.flag-om {
+    background-image: url("../image/om.png");
+}
+
+.flag-pa {
+    background-image: url("../image/pa.png");
+}
+
+.flag-pe {
+    background-image: url("../image/pe.png");
+}
+
+.flag-pf {
+    background-image: url("../image/pf.png");
+}
+
+.flag-pg {
+    background-image: url("../image/pg.png");
+}
+
+.flag-ph {
+    background-image: url("../image/ph.png");
+}
+
+.flag-pk {
+    background-image: url("../image/pk.png");
+}
+
+.flag-pl {
+    background-image: url("../image/pl.png");
+}
+
+.flag-pm {
+    background-image: url("../image/pm.png");
+}
+
+.flag-pn {
+    background-image: url("../image/pn.png");
+}
+
+.flag-pr {
+    background-image: url("../image/pr.png");
+}
+
+.flag-ps {
+    background-image: url("../image/ps.png");
+}
+
+.flag-pt {
+    background-image: url("../image/pt.png");
+}
+
+.flag-pw {
+    background-image: url("../image/pw.png");
+}
+
+.flag-py {
+    background-image: url("../image/py.png");
+}
+
+.flag-qa {
+    background-image: url("../image/qa.png");
+}
+
+.flag-re {
+    background-image: url("../image/bl.png");
+}
+
+.flag-ro {
+    background-image: url("../image/ro.png");
+}
+
+.flag-rs {
+    background-image: url("../image/rs.png");
+}
+
+.flag-ru {
+    background-image: url("../image/ru.png");
+}
+
+.flag-rw {
+    background-image: url("../image/rw.png");
+}
+
+.flag-sa {
+    background-image: url("../image/sa.png");
+}
+
+.flag-sb {
+    background-image: url("../image/sb.png");
+}
+
+.flag-sc {
+    background-image: url("../image/sc.png");
+}
+
+.flag-sd {
+    background-image: url("../image/sd.png");
+}
+
+.flag-se {
+    background-image: url("../image/se.png");
+}
+
+.flag-sg {
+    background-image: url("../image/sg.png");
+}
+
+.flag-sh {
+    background-image: url("../image/gb.png");
+}
+
+.flag-si {
+    background-image: url("../image/si.png");
+}
+
+.flag-sj {
+    background-image: url("https://dreamspos.dreamstechnologies.com/html/template/assets/plugins/icons/flags/flags/sj.png");
+}
+
+.flag-sk {
+    background-image: url("../image/sk.png");
+}
+
+.flag-sl {
+    background-image: url("../image/sl.png");
+}
+
+.flag-sm {
+    background-image: url("../image/sm.png");
+}
+
+.flag-sn {
+    background-image: url("../image/sn.png");
+}
+
+.flag-so {
+    background-image: url("../image/so.png");
+}
+
+.flag-sr {
+    background-image: url("../image/sr.png");
+}
+
+.flag-ss {
+    background-image: url("../image/ss.png");
+}
+
+.flag-st {
+    background-image: url("../image/st.png");
+}
+
+.flag-sv {
+    background-image: url("../image/sv.png");
+}
+
+.flag-sx {
+    background-image: url("../image/sx.png");
+}
+
+.flag-sy {
+    background-image: url("../image/sy.png");
+}
+
+.flag-sz {
+    background-image: url("../image/sz.png");
+}
+
+.flag-tc {
+    background-image: url("../image/tc.png");
+}
+
+.flag-td {
+    background-image: url("../image/td.png");
+}
+
+.flag-tf {
+    background-image: url("../image/tf.png");
+}
+
+.flag-tg {
+    background-image: url("../image/tg.png");
+}
+
+.flag-th {
+    background-image: url("../image/th.png");
+}
+
+.flag-tj {
+    background-image: url("../image/tj.png");
+}
+
+.flag-tk {
+    background-image: url("../image/tk.png");
+}
+
+.flag-tl {
+    background-image: url("../image/tl.png");
+}
+
+.flag-tm {
+    background-image: url("../image/tm.png");
+}
+
+.flag-tn {
+    background-image: url("../image/tn.png");
+}
+
+.flag-to {
+    background-image: url("../image/to.png");
+}
+
+.flag-tr {
+    background-image: url("../image/tr.png");
+}
+
+.flag-tt {
+    background-image: url("../image/tt.png");
+}
+
+.flag-tv {
+    background-image: url("../image/tv.png");
+}
+
+.flag-tw {
+    background-image: url("../image/tw.png");
+}
+
+.flag-tz {
+    background-image: url("../image/tz.png");
+}
+
+.flag-ua {
+    background-image: url("../image/ua.png");
+}
+
+.flag-ug {
+    background-image: url("../image/ug.png");
+}
+
+.flag-um {
+    background-image: url("../image/um.png");
+}
+
+.flag-un {
+    background-image: url("https://dreamspos.dreamstechnologies.com/html/template/assets/plugins/icons/flags/flags/un.png");
+}
+
+.flag-us {
+    background-image: url("../image/um.png");
+}
+
+.flag-uy {
+    background-image: url("../image/uy.png");
+}
+
+.flag-uz {
+    background-image: url("../image/uz.png");
+}
+
+.flag-va {
+    background-image: url("../image/va.png");
+}
+
+.flag-vc {
+    background-image: url("../image/vc.png");
+}
+
+.flag-ve {
+    background-image: url("../image/ve.png");
+}
+
+.flag-vg {
+    background-image: url("../image/vg.png");
+}
+
+.flag-vi {
+    background-image: url("../image/vi.png");
+}
+
+.flag-vn {
+    background-image: url("../image/vn.png");
+}
+
+.flag-vu {
+    background-image: url("../image/vu.png");
+}
+
+.flag-wf {
+    background-image: url("../image/wf.png");
+}
+
+.flag-ws {
+    background-image: url("../image/ws.png");
+}
+
+.flag-ye {
+    background-image: url("../image/ye.png");
+}
+
+.flag-yt {
+    background-image: url("../image/bl.png");
+}
+
+.flag-za {
+    background-image: url("../image/za.png");
+}
+
+.flag-zm {
+    background-image: url("../image/zm.png");
+}
+
+.flag-zw {
+    background-image: url("../image/zw.png");
+}
+
